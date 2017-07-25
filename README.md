@@ -215,7 +215,7 @@
         "data": {
             "content": "string, 消息内容",
             "robot_id": "string, 机器人ID",
-            "room_id": "string, 群ID",
+            "room_username": "string, 微信群标识，以@@开头",
             "nickname": "string, 昵称"
         }
     }
