@@ -17,7 +17,7 @@
 - 示例：
 ```json
     {
-        data: {
+        "data": {
             "item_ids": "551791620448,540948528503,551597829741,549271457308,552249320835,548539417507,539186916594,552863855893,547643217146",
             "pics": "//img.alicdn.com/bao/uploaded/i4/TB1dcNJRFXXXXX8apXXXXXXXXXX_!!0-item_pic.jpg,//img.alicdn.com/bao/uploaded/i4/TB1ZqlXRFXXXXcPXXXXXXXXXXXX_!!0-item_pic.jpg,//img.alicdn.com/bao/uploaded/i4/TB1ZqlXRFXXXXcPXXXXXXXXXXXX_!!0-item_pic.jpg,//img.alicdn.com/bao/uploaded/i4/TB1ZqlXRFXXXXcPXXXXXXXXXXXX_!!0-item_pic.jpg,//img.alicdn.com/bao/uploaded/i4/TB1ZqlXRFXXXXcPXXXXXXXXXXXX_!!0-item_pic.jpg,//img.alicdn.com/bao/uploaded/i4/TB1ZqlXRFXXXXcPXXXXXXXXXXXX_!!0-item_pic.jpg,//img.alicdn.com/bao/uploaded/i4/TB1ZqlXRFXXXXcPXXXXXXXXXXXX_!!0-item_pic.jpg,//img.alicdn.com/bao/uploaded/i4/TB1ZqlXRFXXXXcPXXXXXXXXXXXX_!!0-item_pic.jpg,//img.alicdn.com/bao/uploaded/i4/TB1ZqlXRFXXXXcPXXXXXXXXXXXX_!!0-item_pic.jpg",
             "group_text":"群文本",
